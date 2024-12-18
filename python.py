@@ -1,4 +1,7 @@
 import pandas as pd
+import numpy as np
+
+df=pd.read_csv('')
 
 
 from google.cloud import translate_v2 as translate
